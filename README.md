@@ -1,0 +1,1 @@
+I am excited to share the "Quote of the Day" app, which represents the successful completion of my second task as an intern at Encryptix. I am sincerely grateful to Encryptix for offering me this wonderful opportunity. This experience has significantly expanded my knowledge and expertise in Android development, allowing me to create engaging and meaningful applications.
